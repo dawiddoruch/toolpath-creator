@@ -1,0 +1,10 @@
+# Default ignored files
+/__pycache__/
+/backup_nc/
+/venv/
+/nc/*/
+/nc/*.nc
+/dxf/*/
+/dxf/*.dxf
+/dxf/*.bak
+/dxf/*.log
